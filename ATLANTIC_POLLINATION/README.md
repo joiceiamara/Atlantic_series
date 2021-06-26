@@ -1,6 +1,6 @@
 # ATLANTIC POLLINATION
 
-<img align="right" width="250" src="atlantic_vertebrates.jpg">ATLANTIC-POLLINATION dataset is part of the ATLANTIC SERIES, on which research teams are compiling biodiversity information of Atlantic Forest biome. 
+<img align="center" width="250" height="300" src="atlantic_vertebrates.jpg">ATLANTIC-POLLINATION dataset is part of the ATLANTIC SERIES, on which research teams are compiling biodiversity information of Atlantic Forest biome. 
 
 IAMARA-NOGUEIRA, et al. *ATLANTIC POLLINATION. A Dataset of Flowers and Interaction with Nectar-Feeding Vertebrates from the Atlantic Forest (in press).
 
