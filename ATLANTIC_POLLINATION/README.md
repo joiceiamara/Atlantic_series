@@ -1,6 +1,6 @@
 # ATLANTIC POLLINATION
 
-<img align="center" width="250" height="300" src="atlantic_vertebrates.jpg">ATLANTIC-POLLINATION dataset is part of the ATLANTIC SERIES, on which research teams are compiling biodiversity information of Atlantic Forest biome. 
+###ATLANTIC-POLLINATION dataset is part of the ATLANTIC SERIES, on which research teams are compiling biodiversity information of Atlantic Forest biome. 
 
 IAMARA-NOGUEIRA, et al. *ATLANTIC POLLINATION. A Dataset of Flowers and Interaction with Nectar-Feeding Vertebrates from the Atlantic Forest (in press).
 
@@ -13,6 +13,7 @@ This dataset provides information about 1902 unique interactions among 515 speci
 
 CONTACT PERSON: Joice Iamara-Nogueira <joice.iamara@alumni.usp.br> and Silvana Buzato <sbuzato@usp.br>
 
+**<img align="right" width="180" src="atlantic_vertebrates.jpg">
 
 **FIGURE 1.** Geographic distribution of the flowers and nectar-feeding vertebrates interaction in the Brazilian Atlantic Forest. 
  
