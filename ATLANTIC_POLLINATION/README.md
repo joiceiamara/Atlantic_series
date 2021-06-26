@@ -1,9 +1,9 @@
 # ATLANTIC POLLINATION
 
-#IAMARA-NOGUEIRA, et al. *ATLANTIC POLLINATION. A Dataset of Flowers and Interaction with Nectar-Feeding Vertebrates from the Atlantic Forest* (in press).
+# IAMARA-NOGUEIRA, et al. *ATLANTIC POLLINATION. A Dataset of Flowers and Interaction with Nectar-Feeding Vertebrates from the Atlantic Forest* (in press).
 
 
-###ATLANTIC-POLLINATION dataset is part of the ATLANTIC SERIES, on which research teams are compiling biodiversity information of Atlantic Forest biome. 
+### ATLANTIC-POLLINATION dataset is part of the ATLANTIC SERIES, on which research teams are compiling biodiversity information of Atlantic Forest biome. 
 
 ### The datapaper was ACCEPTED in ECOLOGY journal
 
